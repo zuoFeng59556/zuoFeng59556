@@ -6,7 +6,7 @@
 
 上得了厅堂，下得了厨房。
 
-文能开发写文档，武能抗锤砸大墙。   
+文能开发写文档，武能抗大锤砸墙。   
 
 能言善辩 行事稳健，心怀信念 胸怀大志。  
 
@@ -16,11 +16,7 @@
 
 
 
-<!-- - 🤔  没有学历.
-- 🤔  技术不好.
-- 🤔  英语太差.
-- 🤔  起步较晚.
-- 😄  But it's okay. I'm working on it. -->
+
 <img align="center"  width="415"  src="https://github-readme-streak-stats.herokuapp.com/?user=zuoFeng59556&hide_border=true" />
   
   
